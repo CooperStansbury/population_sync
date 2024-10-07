@@ -1,0 +1,6 @@
+sample_id,file_path
+DT1,/nfs/turbo/umms-indikar/shared/projects/cell_cycle/data/DAI_exp3_syncFibroblast/merged_fastq/2024-10-02-Synched-DT-1st.fastq.gz
+DT2,/nfs/turbo/umms-indikar/shared/projects/cell_cycle/data/DAI_exp3_syncFibroblast/merged_fastq/2024-10-02-Synched-DT-1st-2.fastq.gz
+DT3,/nfs/turbo/umms-indikar/shared/projects/cell_cycle/data/DAI_exp3_syncFibroblast/merged_fastq/2024-10-02-Synched-DT-2nd.fastq.gz
+RO1,/nfs/turbo/umms-indikar/shared/projects/cell_cycle/data/DAI_exp3_syncFibroblast/merged_fastq/2024-10-02-Synched-RO-3306-1.fastq.gz
+RO2,/nfs/turbo/umms-indikar/shared/projects/cell_cycle/data/DAI_exp3_syncFibroblast/merged_fastq/2024-10-02-Synched-RO-3306-2nd.fastq.gz
